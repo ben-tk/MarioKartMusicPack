@@ -1,0 +1,9 @@
+{
+    "Name": "Mario Kart Music Pack",
+    "Author": "Ben_TK",
+    "Description": "Replaces all the non-Otherworld tracks with remixes (and some of the OST) from various Mario Kart games. The full list of songs can be found on the Steam Workshop page.",
+    "Version": {
+        "major": 1,
+        "minor": 0
+    }
+}
